@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Proceedings and judgment against the rioters ... who were fined at the Kings bench court at Westminster on the 26th of this instant June, 1683, for a riot and battery committed by them upon ... the late Lord Mayor, &amp;c. in Guild Hall, at the election of sheriffs ... : as also the fining of one Mr. Turne, for making a riot upon the Mayor of Rye, in the county of Sussex.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55934</idno><idno type="EEBO-CITATION">12270237</idno>
+  <idno type="VID">58216</idno>
+  <idno type="EEBO-PROQUEST">2240975429</idno>
+  
+            <idno type="STC">Wing P3554A</idno>
+            <idno type="STC">ESTC R5208</idno>
+            <idno type="OCLC">12270237</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55934)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58216)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 875:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Proceedings and judgment against the rioters ... who were fined at the Kings bench court at Westminster on the 26th of this instant June, 1683, for a riot and battery committed by them upon ... the late Lord Mayor, &amp;c. in Guild Hall, at the election of sheriffs ... : as also the fining of one Mr. Turne, for making a riot upon the Mayor of Rye, in the county of Sussex.</title>
+                  <author>England and Wales. Court of King's Bench.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Langley Curtis ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Broadside.</note>
+                  <note>The riot was to oppose the election of the new sheriffs. The Lord Mayor was Sir John Moore. cf. Crawford, J.L.L. Catalogue of English Broadsides, 1505-1897.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Riots --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:58216:1"/>
+            <head>THE Proceedings and Judgment Against the RIOTERS; <hi>Viz.</hi>
+               <list>
+                  <item>
+                     <hi>Thomas Pilkington</hi> Esq;</item>
+                  <item>
+                     <hi>Samuel Shute</hi> Esq;</item>
+                  <item>
+                     <hi>Henry Cornish,</hi> Alderman.</item>
+                  <item>
+                     <hi>Ford</hi> Lord <hi>Grey</hi> of <hi>Wark.</hi>
+                  </item>
+                  <item>
+                     <hi>Slingsby Bethel</hi> Esq;</item>
+                  <item>Sir <hi>Thomas Player,</hi> Knight.</item>
+                  <item>
+                     <hi>Francis Jenks.</hi>
+                  </item>
+                  <item>
+                     <hi>John Deagle.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Goodenough.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Freeman.</hi>
+                  </item>
+                  <item>
+                     <hi>John Wickham.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Key.</hi>
+                  </item>
+                  <item>
+                     <hi>Samuel Swinock.</hi> And</item>
+                  <item>
+                     <hi>John Jekyll Senior.</hi>
+                  </item>
+               </list> Who were Fined at the <hi>Kings Bench</hi> Court at <hi>Westminster</hi> on the 26th of this Instant <hi>June,</hi> 1683. for a Riot and Battery committed by them upon the Person of the late Lord Mayor, <hi>&amp;c.</hi> in <hi>Guild Hall,</hi> at the Election of Sheriffs, containing what remarkably occurred in the De<g ref="char:EOLhyphen"/>bates admitted upon passing Judgment of Fine. As also the Fining of one <hi>Mr. Turne,</hi> for making a Riot upon the Mayor of <hi>Rye,</hi> in the County of <hi>Sussex.</hi>
+            </head>
+            <argument>
+               <p>Entred according to Order.</p>
+            </argument>
+            <p>ON the Eighth day of <hi>May</hi> last, the Parties above mentioned were Tryed at the <hi>Guilde-Hall</hi> of the City of <hi>London,</hi> upon an Information in the Crown for riotously, routously and unlawfully opposing the Proceedings in <hi>Guild-Hall</hi> on <hi>Midsummer</hi> Day last, upon the Election of Sheriffs to serve for the City of <hi>Lond.</hi> Country of <hi>Middlesex,</hi> &amp; Assaulting Sir <hi>John Moore,</hi> then Lord Mayor, <hi>&amp;c.</hi> which being by divers Witnesses made apparent, and they by the Jury after some short consideration found guilty, Mr. Attorney General, on the 15th of <hi>June, Anno.</hi> 1683. moved in the Court of <hi>King's-Bench</hi> at <hi>Westminster,</hi> that Judgment might be awarded against them upon their former Conviction, in order to their being Fined for the Riot, <hi>&amp;c.</hi> But the L. C. Justice <hi>Saunders,</hi> and Mr. Justice <hi>Raymond,</hi> by reason of their Indispo<g ref="char:EOLhyphen"/>sitions, being neither of them on the Bench, Mr. Justice <hi>Jones,</hi> with the consent of Mr. Attorney General, referred it to the 19th Instant, when Mr. Attorney again moved for Judgment, alledging the heinousness of the Crime, <hi>viz.</hi> That it was an open Affront to Justice and Magistracy, and might prove an Evil President if it should escape unpunished, which he prayed it might not do, but that since they had been fair<g ref="char:EOLhyphen"/>ly Convicted, the Court, in pursuance thereof, would Award such Fines as might deter others from the like Attempts, <hi>&amp;c.</hi> Upon this Motion Mr. <hi>Williams,</hi> of Council for the Defendants, moved, That seeing there had first a <hi>Venire</hi> been directed to Mr. <hi>Pilkington</hi> and Mr. <hi>Shute,</hi> late Sheriffs of <hi>London,</hi> and afterward an <hi>Alias Venire</hi> to the present Sheriffs, and yet that in the Information all the Defendants were joyned, though, as he suggested, that at the time of the first <hi>Venire,</hi> some of them were not made known; and that since Mr. <hi>Pilkington,</hi> Mr. <hi>Shute, &amp;c.</hi> had Appeared upon the first, and many of the others not till the second; he humbly prayed that an Error might be thereon assigned.</p>
+            <pb facs="tcp:58216:2"/>
+            <p>To which the King's Council replyed, That if any prejudice was sustained in the methods and manner of Proceeding to the Tryal of the Persons convicted of the Riot and Battery, it was sustained on the <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>art of the King; and seeing he was willing to dispense with it that <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>t affected the Defendan<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, unless in redounding to their Advantage, for that they had a Legal Tryal, all of them pleading Not Guilty, and putting themselves upon their Country, to try the Issue between the King and them, which Country had found them guilty of the Offences before mentioned, and that now nothing remained but the Judgment of the Court in Awarding their Fines, <hi>&amp;c.</hi>
+            </p>
+            <p>To this it was Alle<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ged, Tha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> seeing they were Assembled in <hi>Guild-Hall</hi> upon a Law<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ull Occasion, they could not be guilty of a Riot, or the like Misdemeanour, the Legality of their first Assembling not admitting thereof: But this Allegation was over<g ref="char:EOLhyphen"/>ruled be many demonstrations, plainly making it appear, that although an Assembly be never so Legally Convened, yet it they Tumult or break the Peace, the Legality of the Assembly cannot bear them out. And moreover, that when the Lord Mayor had Adjourned the Pole, the Assembly was no longer a Lawful Assembly, but ought, immediately to have departed to their respective Habitations, which the Defendants not only delayed to do, but in contempt of Authority, continued the Pole, and in a Riotous manner Assaulted the Person of the Mayor. And that for Inference, If a Con<g ref="char:EOLhyphen"/>gregation be Assembled at a Church to hear Divine Service, which in it self is lawful yet if blows happen, or a Riotous or disorderly Tumult is made, the Legality of the Meeting shall in no wise excuse the Authors of such Disorders from the Penalties of the Law, <hi>&amp;c.</hi> of which Opinion were not only the Council for the King, but the Judges likewise.</p>
+            <p>These, and such like, being the Arguments of this day, Mr. Justice <hi>Jones</hi> being in<g ref="char:EOLhyphen"/>disposed, and Mr. Justice <hi>Raymond</hi> not coming upon the Bench, the passing Sentence was defurred till <hi>Friday</hi> the 22th Instant, and from thence till <hi>Monday</hi> the 25th In<g ref="char:EOLhyphen"/>stant, at what time Mr. Justice <hi>Jones</hi> being indisposed, it was put off till this present <hi>Tuesday,</hi> being the 26th of <hi>June;</hi> when as Mr. Attorney moved for Judgment, requi<g ref="char:EOLhyphen"/>ring that the Parties found Guilty upon the Information, might be Fined, and was se<g ref="char:EOLhyphen"/>conded by Mr. Serj. <hi>Jefferies,</hi> both of them praying that they might have good Fined set on them, as an Example to deter others from the like Attempts; as also did Mr. <hi>Jones,</hi> of Council for the King, when on the other side Sir <hi>F. Winnington,</hi> Mr. <hi>Williams,</hi> Mr. <hi>Wallop,</hi> Mr. <hi>Pollixfein,</hi> Mr. <hi>Thompson,</hi> and Mr. <hi>Holt,</hi> of Council for the Defendants, urged many Arguments for the Extenuation of the Fines, seeing they were at the mercy of the Court, alledging, that the Defendants did that of which they were convicted rather out of Ignorance than Malice, or any Design they had to injure or affront the Govern<g ref="char:EOLhyphen"/>ment, as not being then capable to determine whether the Right to Adjourn the Com<g ref="char:EOLhyphen"/>mon Hall lay in the Lord Mayor or Sheriffs. But after the Arguments on both sides had been heard Mr. Justice <hi>Jones</hi> proceeded to declare the Heinousness of the Fact, and what an Evil President it might prove if it should pass unpunished; and after some Conference with Mr. Justice <hi>Withens,</hi> he proceeded to Award their Fines as fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <p>On <hi>Thomas Pilkington</hi> Esq; by reason of his being a Prisoner, only 500 <hi>l. S. Shute</hi> Esq; 1000 Mark, <hi>Ford</hi> L. <hi>Grey</hi> of <hi>Wark</hi> 1000 Mark, Sir <hi>Tho. Player</hi> Kt. 500 Mark, <hi>Slingsby Bethell</hi> Esq; 1000 Mark, <hi>H. Cornish</hi> 1000 Mark, <hi>Francis Jenks</hi> 300 Mark, <hi>R. Freeman</hi> 300 Mark, <hi>R. Goodenough</hi> 500 Mark, <hi>John Deagle</hi> 400 Mark, <hi>Robert Key</hi> 100 Mark <hi>John Wickham</hi> 100 Mark, <hi>S. Swinock</hi> 500 Mark, and on <hi>John Jeakel Senior</hi> 200 Mark; all of them appearing in Court except the Lord <hi>Grey,</hi> Mr. <hi>Key,</hi> and Mr. <hi>Goodenough,</hi> and according as they appeared to be of Ability, so were their Fines Regulated.</p>
+            <p>In the Court of <hi>Kings-Bench</hi> this day likewise one Mr. <hi>Turne</hi> of <hi>Rye,</hi> in the County of <hi>Sussex</hi> was Eined 200 Mark, for making a Riot upon the Mayor of the said Town, and Two of the Town-Officers Fined 20 Mark apiece, for assisting him therein, and strictly commanded to deliver the Insigns of the Mayoralty, which he had seized in<g ref="char:EOLhyphen"/>to his hands, under pretence that himself had been Elected Mayor of the said Corpo<g ref="char:EOLhyphen"/>ration.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Langley Curtis</hi> at the sigh of Sir <hi>Edmund-Bury-Godfrey</hi>'s Head near <hi>Fleet-Bridge.</hi> 1683.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
